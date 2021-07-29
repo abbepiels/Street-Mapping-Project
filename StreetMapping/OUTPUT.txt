@@ -1,0 +1,219 @@
+1. Ur.txt
+
+Input: /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest ur.txt 
+
+Output: Time required to do everything: 0 seconds.
+
+Input:/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest ur.txt -directions i1 i2
+
+Output: The shortest path from i1 to i2 is: 
+i1
+i2
+
+Length of the path from i1 to i2 is: 0.008858176983996336 miles.
+
+Input: /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest ur.txt -meridianmap
+
+Output: Roads Taken to Create Minimum Weight Spanning Tree for UR Campus:
+
+r1
+r14
+r156
+r9
+r34
+r30
+r4
+r11
+r130
+r12
+r28
+r37
+r101
+r115
+r45
+r67
+r59
+r47
+r167
+r52
+r153
+r41
+r49
+r56
+r55
+r2
+r105
+r3
+r161
+r150
+r154
+r176
+r22
+r73
+r79
+r165
+r21
+r142
+r61
+r5
+r179
+r40
+r162
+r15
+r53
+r32
+r51
+r68
+r133
+r7
+r139
+r136
+r20
+r26
+r72
+r24
+r19
+r114
+r6
+r76
+r104
+r126
+r75
+r33
+r93
+r83
+r96
+r86
+r122
+r137
+r99
+r159
+r138
+r58
+r118
+r98
+r177
+r31
+r78
+r120
+r39
+r85
+r123
+r66
+r25
+r144
+r119
+r42
+r35
+r125
+r160
+r90
+r127
+r157
+r140
+r87
+r128
+r113
+r102
+r180
+r141
+r103
+r151
+r92
+r124
+r178
+r145
+r164
+r181
+r169
+r129
+r152
+r175
+r148
+r155
+r147
+r135
+r173
+r100
+r174
+r166
+r171
+r84
+
+
+Time required to do everything: 0 seconds.
+
+2.Nys.txt
+
+Input: /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest nys.txt 
+
+
+Output: Time required to do everything: 2 seconds.
+
+Input:  /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest nys.txt -directions i1 i2
+
+Output: The shortest path from i1 to i2 is: 
+i1
+i2
+
+Length of the path from i1 to i2 is: 0.009146599080087768 miles.
+
+
+Input: /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest nys.txt -meridianmap
+
+Output: Roads Taken to Create Minimum Weight Spanning Tree for New York State:
+
+r2599-388
+r4424-5
+r2609-143
+r7569-605
+r8250
+r8905-119
+r4019
+r2004-40
+r8051-86
+r6907-315
+r2193-234
+r4110-122
+r7468-68
+r6663
+r9107
+r7569-396
+r3031-512
+r3839-223
+r7862-22
+(many more)
+Runtime: 32 seconds
+
+Input: /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest monroe.txt
+
+3. Monroe.txt
+Output: Time required to do everything: 0 seconds.
+
+Input: /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest monroe.txt 
+
+Output: Time required to do everything: 0 seconds.
+
+Input: /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest monroe.txt -directions i1 i2
+
+Output: The shortest path from i1 to i2 is: 
+i1
+i2
+
+Length of the path from i1 to i2 is: 0.006283450424340532 miles.
+
+Input: /Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /Users/abbepiels/eclipse-workspace/Project3/bin MainTest monroe.txt -meridianmap
+
+Output: 
+many before
+r9051
+r11223
+r1991
+r6770-3
+r6684-3
+r644
+r6893
+r9727-11
+
+
+Time required to do everything: 5 seconds.
